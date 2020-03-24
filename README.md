@@ -32,4 +32,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Aprendendo com ♥ by Rocketseat and me:wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Aprendendo com ♥ by Rocketseat and me :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
