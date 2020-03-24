@@ -1,15 +1,15 @@
 ## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+  <!--- [Expo](https://expo.io/)-->
 
 ## 💻 Projeto
 
-O Be The Hero é um projeto que tem o objetivo de realizar uma mudança social, sem a finalidade de acumulação de capital para ajudar, onde pessoas ajudam ongs em vários tipos de casos.
+O Be The Hero é um projeto que tem o objetivo de realizar uma mudança social, sem a finalidade de acumulação de capital para ajudar em situações em vários tipos de casos.
 
 <!--## 🔖 Layout
 
@@ -32,4 +32,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Aprendendo com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Aprendendo com ♥ by Rocketseat and me:wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
