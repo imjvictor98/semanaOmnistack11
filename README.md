@@ -1,3 +1,11 @@
+<h1 align="center">
+    <img alt="Be The Hero" title="#delicinha" src="https://svgshare.com/i/JTE.svg" width="250px" />
+</h1>
+
+<h4 align="center">
+  ☕ Code and coffee
+</h4>
+
 ## :rocket: Tecnologias
 
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
